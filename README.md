@@ -17,3 +17,4 @@ Ideas of development
     - initBioInLab(<name_of_the_folder_where_we_want_to_deploy>)
     - newentry(<type_of_entry>,<content>)
         - <type_of_entry> could be TEXT, FIGURE (the program will then copy the figure in the correct folder), ...
+- inherit from book class instead of article ?
