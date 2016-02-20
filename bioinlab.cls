@@ -2,7 +2,7 @@
 % 2016-02-16 simon (at) besson-girard.fr
 % --- Class structure: identification part
 % ---
-\ProvidesClass{bioinlab}[2015/10/07 version 1.00 Simon Besson-Girard - Classe BioInLab]
+\ProvidesClass{bioinlab}[2016/02/16 version 1.00 Simon Besson-Girard - Classe BioInLab]
 \NeedsTeXFormat{LaTeX2e}
 % --- Class structure: declaration of options part
 % ---
@@ -45,8 +45,8 @@
 %
 \RequirePackage[utf8]{inputenc}
 \RequirePackage[T1]{fontenc}
-\RequirePackage[english,frenchb]{babel}
-\NoAutoSpaceBeforeFDP % espaces devant les doubles ponctuations
+\RequirePackage[english]{babel}
+%\NoAutoSpaceBeforeFDP % espaces devant les doubles ponctuations
 
 
 %

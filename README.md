@@ -1,13 +1,13 @@
 BioInLab
 ========
 
-Also shortly called BIL, it is an RStudio tool to provide a laboratory notebook designed for computer scientists (bioinformaticians ...).
+Also shortly called BIL, it is an RStudio tool to provide a laboratory notebook designed for computer scientists (bioinformaticians ...). It does not claim to be a replacement of knitr (for R) and other packages like this. It allows one to register other metadata which could not fit in the knitr-style document.
 
 ==============
 
 About the name
 --------------
-Pun intended, it makes reference to the japanese word for hospital : 病院 (pronounce byouin). As in a hospital, when something is wrong you can go there and check what is wrong. In our case, laboratory notes are usefull to monitor what has been done wrong in the process.
+Pun intended, it makes reference to the japanese word for hospital : 病院 (pronounced byouin). As in a hospital, when something is wrong you can go there and check what is wrong. In our case, laboratory notes are usefull to monitor what has been done wrong in the process. And of course, it refers to "bioinformatics".
 
 Ideas of development
 --------------------
